@@ -1,4 +1,5 @@
 $( document ).ready( function () { // This is to prevent any jQuery code from running before the document is finished loading
+
     ////////////////////////// Variable -- SECTION //////////////////////////
 
     //region all variable
