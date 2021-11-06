@@ -23,10 +23,6 @@ body {
     transform: translate(-50%);
 }
 
-.wrapper_one {
-    /*//margin: 25px auto;*/
-}
-
 #select-one {
     width: 100px;
 }

@@ -218,7 +218,7 @@ $( document ).ready( function () { // This is to prevent any jQuery code from ru
     } )
     //endregion
 
-    //region listener for button if input empty button is disabled
+    //region listener for button -- if input is empty then the button is disabled
     /**
      * input listener -> if mouse move we check the input empty or not
      */
@@ -241,7 +241,7 @@ $( document ).ready( function () { // This is to prevent any jQuery code from ru
     } );
     //endregion
 
-    //region select listener -- on change put flag
+    //region select listener 1st && 2nd -- on change put flag
     /**
      * first select listener -> if the selection changed, we get the flag and put it
      */
